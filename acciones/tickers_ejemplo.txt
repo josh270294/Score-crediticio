@@ -1,0 +1,11 @@
+# Un ticker por línea. Las líneas que empiezan con # se ignoran.
+AAPL
+MSFT
+GOOGL
+AMZN
+NVDA
+META
+TSLA
+# Acciones de la BMV (México) usan el sufijo .MX
+WALMEX.MX
+AMXB.MX
